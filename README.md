@@ -6,7 +6,7 @@ Hey, I am <b>Tomer Titinger</b> 👋🏽
 I’m a final-year <b>Bachelor’s student in Computer Science</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>.  
 I’m passionate about software engineering, algorithms, and systems, with hands-on experience from both academia and industry.
 
-I previously worked at <b>Elbit Systems</b> on image processing and database management, and at <b>Ness Technologies</b> in technical presales, where I supported enterprise solutions with technical expertise.
+I previously worked at <b>Elbit Systems</b> on image processing and database management, and at <b>Ness Technologies</b> in technical presales amd Project Management, where I supported enterprise solutions with technical expertise.
 
 My main strengths are in problem solving, system-level programming, and data analysis. I enjoy learning new technologies and building projects that bring theory into practice.
 
