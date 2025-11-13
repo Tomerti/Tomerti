@@ -3,12 +3,13 @@
 # 👨🏻‍💻 About me
 Hey, I am <b>Tomer Titinger</b> 👋🏽
 
-I’m a final-year <b>Bachelor’s student in Computer Science</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, with experience across AI, computer vision, and large-scale technical systems. I thrive at the intersection of engineering, product, and innovation—where complex problems become clear, impactful solutions.  
-I’m passionate about software engineering, algorithms, and systems, with hands-on experience from both academia and industry.
+I’m a final year <b>Bachelor’s student in Computer Science</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, with experience across AI, computer vision, and large scale technical systems.
+I thrive at the intersection of engineering, product, and innovation - where complex problems become clear, impactful solutions.  
+I’m passionate about software engineering, algorithms, and systems, with hands on experience from both academia and industry.
 
-I previously worked in <b>Elbit Systems’ R&D</b> environment, evaluating computer vision and AI algorithms, and at <b>Ness Technologies</b>, where I coordinated technical product and project efforts for Israel’s national biometric infrastructure in collaboration with cross-functional teams.
+I previously worked in <b>Elbit Systems’ R&D</b> environment, evaluating computer vision and AI algorithms, and at <b>Ness Technologies</b>, where I coordinated technical product and project efforts for Israel’s national biometric infrastructure in collaboration with cross functional teams.
 
-My strengths include analytical problem-solving, system-level thinking, and bridging the gap between technical details and real-world execution. I enjoy learning new technologies, building meaningful projects, and contributing to challenges that require both engineering depth and clear, structured execution.
+My strengths include analytical problem solving, system level thinking, and bridging the gap between technical details and real world execution. I enjoy learning new technologies, building meaningful projects, and contributing to challenges that require both engineering depth and clear, structured execution.
 
 ## 📝 Some of my Projects
 - ⚙️ [**Operating Systems**](https://github.com/Tomerti/Operating-Systems)  
