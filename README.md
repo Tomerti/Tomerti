@@ -38,6 +38,7 @@ My strengths include analytical problem solving, system level thinking, and brid
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/></a>
     <a href="https://git-scm.com/"><img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
     <a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/></a>
+    <a href="https://unity.com/"><img alt="Unity" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/></a>
 </div>
 
 ## 📬 Contact me
