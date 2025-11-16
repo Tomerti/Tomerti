@@ -12,7 +12,7 @@ I previously worked in <b>Elbit Systems’ R&D</b> environment, evaluating compu
 My strengths include analytical problem solving, system level thinking, and bridging the gap between technical details and real world execution. I enjoy learning new technologies, building meaningful projects, and contributing to challenges that require both engineering depth and clear, structured execution.
 
 ## 📝 Some of my Projects
- - 🧬 Collagen Variant Annotation Pipeline (hEDS Research)
+ - 🧬 [**Collagen Variant Annotation Pipeline (hEDS Research)**]
    End-to-end genomic analysis pipeline integrating ClinVar, VEP, dbNSFP, gnomAD, and Mutalyzer to annotate 35,000+ collagen variants, build functional/pathogenicity profiles, and support candidate-gene discovery for hypermobile EDS.
    
 - ⚙️ [**Operating Systems**](https://github.com/Tomerti/Operating-Systems)  
