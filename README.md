@@ -13,7 +13,7 @@ My strengths include analytical problem solving, system level thinking, and brid
 
 ## 📝 Some of my Projects
  - 🧬 [**Collagen Variant Annotation Pipeline (hEDS Research)**](#)  
-   End-to-end genomic analysis pipeline integrating ClinVar, VEP, dbNSFP, gnomAD, and Mutalyzer to annotate 35,000+ collagen variants, build functional/pathogenicity profiles, and support candidate-gene discovery for hypermobile EDS.
+   End-to-end genomic analysis pipeline integrating ClinVar, VEP, dbNSFP, gnomAD, and Mutalyzer to annotate 32,000+ collagen variants, build functional/pathogenicity profiles, and support candidate-gene discovery for hypermobile EDS.
    
 - ⚙️ [**Operating Systems**](https://github.com/Tomerti/Operating-Systems)  
   Implementation of key OS components such as memory management, scheduling, and file systems in C.  
