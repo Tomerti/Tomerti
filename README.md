@@ -3,7 +3,7 @@
 # 👨🏻‍💻 About me
 Hey, I am <b>Tomer Titinger</b> 👋🏽
 
-I’m a final year <b>Computer Science student</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, with experience across AI, computer vision, computational genomics research and large scale technical systems.
+I’m a final year <b>Computer Science student</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, with experience across AI, computer vision, computational genomics research, and large scale technical systems.
 
 I thrive at the intersection of engineering, product, and innovation - turning complex problems into clear, impactful solutions. I’m passionate about software engineering, algorithms, and systems, and I bring hands-on experience from both academia and industry to every project I work on.
 
