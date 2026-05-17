@@ -29,6 +29,7 @@ PvP Pac-Man inspired game built in Unity, where players dynamically control ghos
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/></a>
   <a href="https://www.java.com/"><img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a>
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/></a>
   <a href="https://sqlite.org/index.html"><img alt="SQLite" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/></a>
   <a href="https://git-scm.com/"><img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
