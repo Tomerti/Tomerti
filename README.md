@@ -11,7 +11,6 @@ I enjoy building systems that combine engineering depth, scalability, and real-w
 # 📝 Some of my Projects
 
 ## 🧬 Collagen Variant Analysis Pipeline
-
 Large-scale computational genomics pipeline for analyzing 35,000+ collagen variants across 1TB of biological data.
 
 ### Highlights
@@ -25,30 +24,44 @@ Large-scale computational genomics pipeline for analyzing 35,000+ collagen varia
 
 ---
 
-## 🚀 NoiseForge
+## 🖼️ NoiseForge
 Experimental “degenerative AI” platform for controlled corruption of text and images.
 
-Built with FastAPI, image-processing pipelines, and deployment optimization for constrained environments.
+### Highlights
+- Built image and text degradation pipelines with controllable corruption intensity
+- Implemented memory-safe upload handling and constrained-environment deployment optimizations
+- Developed scalable backend APIs for real-time processing workflows
+
+### Technologies
+`Python` `FastAPI` `Pillow` `NumPy` `Render`
 
 ---
 
 ## ⚙️ Systems Projects
-Projects exploring operating systems, MapReduce, multithreading, memory management, and low-level systems programming.
+Collection of low-level and systems programming projects exploring operating systems, multithreading, MapReduce, memory management, synchronization, and file systems.
+
+### Technologies
+`C` `C++` `Java`
 
 ---
 
 ## 🎮 GhostMan
-PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts against a live Pac-Man opponent.
+PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts against a live Pac-Man opponent while AI-controlled ghosts continue tracking the player.
+
+### Technologies
+`Unity` `C#`
 
 # 🔨 Languages and Tools
 
-Python • C • C++ • Java • SQL • SQLite • PostgreSQL  
-Git • Linux • NumPy • Pandas • MATLAB • Unity • FastAPI
+### Languages
+`Python` `C` `C++` `Java` `SQL` `C#`
+
+### Backend & Data
+`FastAPI` `SQLite` `PostgreSQL` `Pandas` `NumPy`
+
+### Tools & Platforms
+`Git` `Linux` `MATLAB` `Unity`
 
 # 📬 Contact me
 
 [LinkedIn](https://linkedin.com/in/tomer-titinger)
-
-# 🌟 Other
-
-## Some Statistics
