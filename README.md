@@ -16,8 +16,8 @@ Large-scale computational genomics pipeline processing 35,000+ collagen variants
 🖼️ [**NoiseForge**](https://github.com/Tomerti/NoiseForge)  
 Experimental “degenerative AI” platform for controlled corruption of text and images, built with FastAPI and custom image-processing pipelines.
 
-⚙️ [**Systems Projects**](https://github.com/Tomerti/Operating-Systems)  
-Low-level systems programming projects exploring operating systems, MapReduce, multithreading, memory management, synchronization, and file systems.
+⚙️ [**Operating Systems**](https://github.com/Tomerti/Operating-Systems)  
+Academic and personal projects exploring operating systems, MapReduce, multithreading, memory management, synchronization, and file systems.
 
 🎮 [**GhostMan**](#)  
 PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts while AI-controlled ghosts continue tracking the Pac-Man player.
