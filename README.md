@@ -17,11 +17,10 @@ Large-scale computational genomics pipeline processing 35,000+ collagen variants
 Experimental “degenerative AI” platform for controlled corruption of text and images, built with FastAPI and optimized processing pipelines.
 
 ⚙️ [**Systems Projects**](#)  
-Projects exploring operating systems, MapReduce, multithreading, memory management, synchronization, and low-level systems programming.
+Low-level systems programming projects exploring operating systems, MapReduce, multithreading, memory management, synchronization, and file systems.
 
 🎮 [**GhostMan**](#)  
-PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts against a live Pac-Man opponent while AI-controlled ghosts continue tracking the player.
-
+PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts while AI-controlled ghosts continue tracking the Pac-Man player.
 # 🔨 Languages and Tools
 
 <div align="left">
