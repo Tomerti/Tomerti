@@ -10,57 +10,44 @@ I enjoy building systems that combine engineering depth, scalability, and real-w
 
 # 📝 Some of my Projects
 
-## 🧬 Collagen Variant Analysis Pipeline
-Large-scale computational genomics pipeline for analyzing 35,000+ collagen variants across 1TB of biological data.
+🧬 [**Collagen Variant Analysis Pipeline**](#)  
+Large-scale computational genomics pipeline processing 35,000+ collagen variants across 1TB of biological data, reducing 80M+ dbNSFP query time from 22h → 40m using optimized SQLite indexing.
 
-### Highlights
-- Integrated ClinVar, gnomAD, dbNSFP, VEP, and Mutalyzer into a unified annotation workflow
-- Optimized 80M+ dbNSFP row queries using indexed SQLite pipelines
-- Reduced lookup time from 22 hours to 40 minutes (33× speedup)
-- Generated pathogenicity scoring, glycine-hotspot mapping, and candidate-gene prioritization workflows
+🖼️ [**NoiseForge**](#)  
+Experimental “degenerative AI” platform for controlled corruption of text and images, built with FastAPI and optimized processing pipelines.
 
-### Technologies
-`Python` `Pandas` `SQLite` `SQL` `VEP API` `dbNSFP`
+⚙️ [**Systems Projects**](#)  
+Projects exploring operating systems, MapReduce, multithreading, memory management, synchronization, and low-level systems programming.
 
----
-
-## 🖼️ NoiseForge
-Experimental “degenerative AI” platform for controlled corruption of text and images.
-
-### Highlights
-- Built image and text degradation pipelines with controllable corruption intensity
-- Implemented memory-safe upload handling and constrained-environment deployment optimizations
-- Developed scalable backend APIs for real-time processing workflows
-
-### Technologies
-`Python` `FastAPI` `Pillow` `NumPy` `Render`
-
----
-
-## ⚙️ Systems Projects
-Collection of low-level and systems programming projects exploring operating systems, multithreading, MapReduce, memory management, synchronization, and file systems.
-
-### Technologies
-`C` `C++` `Java`
-
----
-
-## 🎮 GhostMan
+🎮 [**GhostMan**](#)  
 PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts against a live Pac-Man opponent while AI-controlled ghosts continue tracking the player.
-
-### Technologies
-`Unity` `C#`
 
 # 🔨 Languages and Tools
 
-### Languages
-`Python` `C` `C++` `Java` `SQL` `C#`
+<div align="left">
 
-### Backend & Data
-`FastAPI` `SQLite` `PostgreSQL` `Pandas` `NumPy`
+<a href="https://www.python.org/"><img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/></a>
+<a href="https://www.java.com/"><img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a>
 
-### Tools & Platforms
-`Git` `Linux` `MATLAB` `Unity`
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/></a>
+<a href="https://sqlite.org/index.html"><img alt="SQLite" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/></a>
+
+<a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/></a>
+
+<a href="https://numpy.org/"><img alt="NumPy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/></a>
+
+<a href="https://git-scm.com/"><img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
+<a href="https://www.linux.org/"><img alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/></a>
+
+<a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/></a>
+
+<a href="https://unity.com/"><img alt="Unity" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/></a>
+
+</div>
 
 # 📬 Contact me
 
