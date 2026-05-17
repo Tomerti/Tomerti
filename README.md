@@ -1,50 +1,46 @@
-# Tomer Titinger
+# 👨🏻‍💻 About me
 
-Software Engineer focused on systems, AI infrastructure, and large-scale data engineering.
+Hey, I am Tomer Titinger 👋🏽
 
-Final-year Computer Science student at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en).
+I’m a final-year Computer Science student at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en), focused on systems programming, AI infrastructure, and large-scale data engineering.
 
-Previously:
-- Elbit Systems — AI & computer vision algorithm evaluation
-- Ness Technologies — Israel’s national biometric infrastructure (GOV.IL)
+Previously worked at Elbit Systems on AI & computer vision algorithm evaluation, and at Ness Technologies on Israel’s national biometric infrastructure (GOV.IL).
 
----
+I enjoy building systems that combine engineering depth, scalability, and real-world impact.
 
-## Featured Projects
+# 📝 Some of my Projects
 
-### 🧬 Collagen Variant Analysis Pipeline
+## 🧬 Collagen Variant Analysis Pipeline
 Large-scale computational genomics pipeline for annotating 35,000+ collagen variants across 1TB of biological data.
 
-- Integrated ClinVar, gnomAD, dbNSFP, VEP, and Mutalyzer
-- Optimized 80M+ dbNSFP row queries using SQLite indexing
-- Reduced lookup time from 22h → 40m (33× speedup)
-
-**Tech:** Python, Pandas, SQLite, SQL
+Integrated ClinVar, gnomAD, dbNSFP, VEP, and Mutalyzer while optimizing 80M+ dbNSFP row queries using SQLite indexing, reducing lookup time from 22h → 40m (33× speedup).
 
 ---
 
-### 🚀 NoiseForge
+## 🚀 NoiseForge
 Experimental “degenerative AI” platform for controlled corruption of text and images.
 
-**Tech:** Python, FastAPI, Pillow, NumPy
+Built with FastAPI, image-processing pipelines, and deployment optimization for constrained environments.
 
 ---
 
-### ⚙️ Systems Projects
-Operating systems, MapReduce, multithreading, memory management, and low-level systems programming.
-
-**Tech:** C, C++, Java
+## ⚙️ Systems Projects
+Projects exploring operating systems, MapReduce, multithreading, memory management, and low-level systems programming.
 
 ---
 
-## Interests
-Backend Engineering • Systems Programming • AI Infrastructure • Distributed Systems • Developer Tooling
+## 🎮 GhostMan
+PvP Pac-Man inspired game built in Unity, where players dynamically control ghosts against a live Pac-Man opponent.
 
----
+# 🔨 Languages and Tools
 
-## Tech Stack
-Python • C/C++ • Java • SQL • SQLite • PostgreSQL • Git • Linux
+Python • C • C++ • Java • SQL • SQLite • PostgreSQL  
+Git • Linux • NumPy • Pandas • MATLAB • Unity • FastAPI
 
----
+# 📬 Contact me
 
 [LinkedIn](https://linkedin.com/in/tomer-titinger)
+
+# 🌟 Other
+
+## Some Statistics
