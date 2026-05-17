@@ -16,7 +16,7 @@ Large-scale computational genomics pipeline processing 35,000+ collagen variants
 🖼️ [**NoiseForge**](https://github.com/Tomerti/NoiseForge)  
 Experimental “degenerative AI” platform for controlled corruption of text and images, built with FastAPI and custom image-processing pipelines.
 
-⚙️ [**Systems Projects**](#)  
+⚙️ [**Systems Projects**](https://github.com/Tomerti/Operating-Systems)  
 Low-level systems programming projects exploring operating systems, MapReduce, multithreading, memory management, synchronization, and file systems.
 
 🎮 [**GhostMan**](#)  
