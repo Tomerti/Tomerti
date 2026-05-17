@@ -41,4 +41,7 @@ PvP Pac-Man inspired game built in Unity, where players dynamically control ghos
 
 # 📬 Contact me
 
-[LinkedIn](https://linkedin.com/in/tomer-titinger)
+<a href="https://linkedin.com/in/tomer-titinger/">
+  <img alt="LinkedIn" width="40" height="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+</a>
