@@ -11,9 +11,17 @@ I enjoy building systems that combine engineering depth, scalability, and real-w
 # 📝 Some of my Projects
 
 ## 🧬 Collagen Variant Analysis Pipeline
-Large-scale computational genomics pipeline for annotating 35,000+ collagen variants across 1TB of biological data.
 
-Integrated ClinVar, gnomAD, dbNSFP, VEP, and Mutalyzer while optimizing 80M+ dbNSFP row queries using SQLite indexing, reducing lookup time from 22h → 40m (33× speedup).
+Large-scale computational genomics pipeline for analyzing 35,000+ collagen variants across 1TB of biological data.
+
+### Highlights
+- Integrated ClinVar, gnomAD, dbNSFP, VEP, and Mutalyzer into a unified annotation workflow
+- Optimized 80M+ dbNSFP row queries using indexed SQLite pipelines
+- Reduced lookup time from 22 hours to 40 minutes (33× speedup)
+- Generated pathogenicity scoring, glycine-hotspot mapping, and candidate-gene prioritization workflows
+
+### Technologies
+`Python` `Pandas` `SQLite` `SQL` `VEP API` `dbNSFP`
 
 ---
 
