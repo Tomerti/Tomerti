@@ -10,7 +10,7 @@ I enjoy building scalable systems and solving technically complex problems with 
 
 # 📝 Some of my Projects
 
-🧬 [**Collagen Variant Analysis Pipeline**](#)  
+🧬 [**Collagen Variant Analysis Pipeline**](https://github.com/Tomerti/collagen-variant-analysis)  
 Large-scale computational genomics pipeline processing 35,000+ collagen variants across 1TB of biological data, reducing 80M+ dbNSFP query time from 22h → 40m using optimized SQLite indexing.
 
 🖼️ [**NoiseForge**](https://github.com/Tomerti/NoiseForge)  
