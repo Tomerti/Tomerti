@@ -6,7 +6,7 @@ I’m a final-year Computer Science student at [The Hebrew University of Jerusal
 
 Previously worked at Elbit Systems on AI & computer vision algorithm evaluation, and at Ness Technologies on Israel’s national biometric infrastructure (GOV.IL).
 
-I enjoy building systems that combine engineering depth, scalability, and real-world impact.
+I enjoy building scalable systems and solving technically complex problems with real-world impact.
 
 # 📝 Some of my Projects
 
