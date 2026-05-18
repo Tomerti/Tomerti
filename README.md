@@ -1,12 +1,12 @@
 # 👨🏻‍💻 About me
 
-Hey, I am Tomer Titinger 👋🏽
+Hey, I’m Tomer Titinger 👋🏽
 
-I’m a final-year Computer Science student at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en), focused on systems programming, AI infrastructure, and large-scale data engineering.
+Final-year Computer Science student at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en), focused on systems programming, AI infrastructure, and large-scale data engineering.
 
-Previously worked at Elbit Systems on AI & computer vision algorithm evaluation, and at Ness Technologies on Israel’s national biometric infrastructure (GOV.IL).
+Previously worked at Elbit Systems on computer vision & AI algorithm evaluation, and at Ness Technologies on Israel’s national biometric infrastructure (GOV.IL).
 
-I enjoy building scalable systems and solving technically complex problems with real-world impact.
+I enjoy building scalable systems, performance-oriented pipelines, and technically complex software with real-world impact.
 
 # 📝 Some of my Projects
 
