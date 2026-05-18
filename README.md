@@ -8,7 +8,7 @@ Previously worked at Elbit Systems on computer vision & AI algorithm evaluation,
 
 I enjoy building scalable systems, performance-oriented pipelines, and technically complex software with real-world impact.
 
-# 📝 Some of my Projects
+# 📝 Selected Projects
 
 🧬 [**Collagen Variant Analysis Pipeline**](https://github.com/Tomerti/collagen-variant-analysis)  
 Large-scale computational genomics pipeline processing 35,000+ collagen variants across 1TB of biological data, reducing 80M+ dbNSFP query time from 22h → 40m using optimized SQLite indexing.
