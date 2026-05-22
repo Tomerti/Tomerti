@@ -2,11 +2,13 @@
 
 Hey, I’m Tomer Titinger 👋🏽
 
-Final-year Computer Science student at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en), focused on systems programming, AI infrastructure, and large-scale data engineering.
+I'm a Computer Science student at The Hebrew University of Jerusalem, with hands on experience across AI, computer vision, and complex technical environments.
 
-Previously worked at Elbit Systems on computer vision & AI algorithm evaluation, and at Ness Technologies on Israel’s national biometric infrastructure (GOV.IL).
+My background includes algorithm performance research at Elbit Systems, technical product coordination at Ness Technologies supporting Israel’s national biometric infrastructure, and venture evaluation through HUJI VC Club, where I analyze early stage startups and collaborate with founders on technology, product, and growth strategy.
 
-I enjoy building scalable systems, performance-oriented pipelines, and technically complex software with real-world impact.
+Before university, I served as an Electronic Warfare Commander in the Israel Defense Forces, leading teams in mission critical environments.
+
+Outside of work, I train Brazilian Jiu-Jitsu and previously volunteered as a guide dog instructor; Timmy now supports a child on the autism spectrum.
 
 # 📝 Selected Projects
 
