@@ -13,7 +13,7 @@ Outside of work, I train Brazilian Jiu-Jitsu and previously volunteered as a gui
 # 📝 Selected Projects
 
 🔀 [**AutoMotion**](https://github.com/Tomerti/automotion)  
-In-browser playground for finite automata: draw DFAs and NFAs, watch them run on a word one symbol at a time, and step through NFA → DFA conversion and minimization with every step explained. Built with TypeScript, React and a custom SVG renderer, with TikZ export.
+Playground for finite automata: draw DFAs and NFAs, watch them run on a word one symbol at a time, and step through NFA → DFA conversion and minimization with every step explained. Built with TypeScript, React and a custom SVG renderer, with TikZ export.
 
 🧬 [**Collagen Variant Analysis Pipeline**](https://github.com/Tomerti/collagen-variant-analysis)  
 Large-scale computational genomics pipeline processing 35,000+ collagen variants across 1TB of biological data, reducing 80M+ dbNSFP query time from 22h → 40m using optimized SQLite indexing.
